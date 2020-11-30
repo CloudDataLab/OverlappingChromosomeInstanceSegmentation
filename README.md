@@ -6,7 +6,13 @@ This repository is for the code and dataset of the Paper:A Clinical Dataset and 
 
 
 
+Because the model file is too large, we uploaded it to Baidu Netdisk for sharing: [Link](https://pan.baidu.com/s/1fo3q57aVTXVJNoMJRBdLhA) password: g9j8
+
+
+
 Everyone can freely use the code and dataset for research and non-commerce application. However, for those using the code or dataset in this repository should cite this paper to indicate the original source.
+
+
 
 Bibtex:
 
