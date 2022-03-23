@@ -10,10 +10,16 @@ Because the model file is too large, we uploaded it to Baidu Netdisk for sharing
 
 
 
-If you need to use the data set, please contact kk1166474188@qq.com. However, for those using the code or dataset in this repository should cite this paper to indicate the original source.
+If you need to use the data set, please contact chengchuang.lin@m.scnu.edu.cn. However, for those using the code or dataset in this repository should cite this paper to indicate the original source.
 
 
 
 Bibtex:
 
-@inproceedings{bolya2019yolact,title={A Clinical Dataset and Various Baselines for Chromosome Instance Segmentation},author={Runhua, Huang and Chengchuang, Lin and Aihua, Yin and Hanbiao, Chen and Li, Guo and Gansen, Zhao and Xiaomao, Fan and Shuangyin, Lin and Jinji, Yang},booktitle={Proceedings of the 19th Asia Pacific Bioinformatics Conference},pages={0--0},year={2021}}
+@article{huang2021clinical,
+  title={A Clinical Dataset and Various Baselines for Chromosome Instance Segmentation},
+  author={Huang, Runhua and Lin, Chengchuang and Yin, Aihua and Chen, Hanbiao and Guo, Li and Zhao, Gansen and Fan, Xiaomao and Li, Shuangyin and Yang, Jinji},
+  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
+  year={2021},
+  publisher={IEEE}
+}
